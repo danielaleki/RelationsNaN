@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.table-content-width th,
+.table-content-width td {
+    white-space: nowrap;
+}
